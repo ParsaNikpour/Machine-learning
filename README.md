@@ -40,4 +40,17 @@ Tensorflow
 2) 30 units, relu activation
 3) 20 units, relu activation
 4) 1 units, linear activation
+
 And here's the summary:
+
+![6](https://user-images.githubusercontent.com/111052950/184198869-d6210285-199b-4062-8f92-28f088a86d0b.JPG)
+
+Loss function: MeanSquaredError
+Optimizer: Adam(learning_rate=0.01)
+epochs = 4
+
+After training we have:
+Loss: 38.5859
+
+And the final result:
+

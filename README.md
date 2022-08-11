@@ -3,7 +3,7 @@ In this project I build a machine learning model in Jupyter Lab. I used diabetes
 
 *Section 1
 
-In the first one I code it from scratch. I used linear regression and gradient descent to find the optimal parameters, w and b. 
+I code the model from scratch. I used linear regression and gradient descent to find the optimal parameters, w and b. 
 
 ![1](https://user-images.githubusercontent.com/111052950/184142209-f3a7aeaa-e40a-4131-8fee-c9f88326c8bc.JPG)
 

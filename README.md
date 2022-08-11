@@ -54,3 +54,4 @@ Loss: 38.5859
 
 And the final result:
 
+![7](https://user-images.githubusercontent.com/111052950/184199809-cedf7a2a-822a-488a-96db-2af550ed472f.JPG)

@@ -22,7 +22,8 @@ And here's the result. Predicted values VS y. Who won? I think we won this match
 
 *Section2
 
-In this section we're going to look what scikit-learn will do. Here I used two methods: SGDRegressor and SVR. The next lines of codes are eaaaaaasy. I used fit and then predict. By looking at the results it's obvious that the cost of SGDRegressor is lower that SVR.
+In this section we're going to use scikit-learn. Here I used two methods: SGDRegressor and SVR. The next lines of codes are eaaaaaasy. Fit and then predict. By looking at the results it's obvious that the cost of SGDRegressor is lower that SVR.
+
 
 ![4](https://user-images.githubusercontent.com/111052950/184145434-025d744f-80e8-4432-b859-a7670b8fa799.JPG)
 ![5](https://user-images.githubusercontent.com/111052950/184145525-d20ec27f-30c8-4811-92a5-f0bbbce524e4.JPG)

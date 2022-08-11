@@ -1,5 +1,5 @@
 # Machine Learning
-In this project I build a machine learning model in Jupyter Lab. I used diabetes data from scikit-learn datasets. This program has mutliple sections.
+In this project I built a machine learning model in Jupyter Lab. I used diabetes data from scikit-learn datasets. This program has mutliple sections:
 
 *Section 1
 

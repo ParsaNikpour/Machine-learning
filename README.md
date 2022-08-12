@@ -17,12 +17,11 @@ And then i made cost function and gradient desent function. The parameters are 5
 
 ![3](https://user-images.githubusercontent.com/111052950/184143958-f8712689-ca5b-49eb-a942-2ec757d96bae.JPG)
 
-And here's the result. Predicted values VS y. Who won? I think we won this match. Yeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!!!!
-
+And here's the result. Predicted values VS y.
 
 *Section2
 
-In this section we're going to use scikit-learn. Here I used two methods: SGDRegressor and SVR. The next lines of codes are eaaaaaasy. Fit and then predict. By looking at the results it's obvious that the cost of SGDRegressor is lower that SVR.
+In this section we're going to use scikit-learn. Here I used two methods: SGDRegressor and SVR. The next lines of codes are eaaaaaasy. Fit and then predict.
 
 Predicted values for SGDR:
 
